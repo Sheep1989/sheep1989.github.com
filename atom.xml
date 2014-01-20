@@ -4,7 +4,7 @@
   <title><![CDATA[徐洋 Blog]]></title>
   <link href="http://Sheep1989.github.io/atom.xml" rel="self"/>
   <link href="http://Sheep1989.github.io/"/>
-  <updated>2014-01-20T13:54:49+08:00</updated>
+  <updated>2014-01-20T14:05:16+08:00</updated>
   <id>http://Sheep1989.github.io/</id>
   <author>
     <name><![CDATA[徐洋]]></name>
@@ -12,5 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[大小腿的第一篇博客]]></title>
+    <link href="http://Sheep1989.github.io/blog/2014/01/20/rake-new-post/"/>
+    <updated>2014-01-20T13:59:37+08:00</updated>
+    <id>http://Sheep1989.github.io/blog/2014/01/20/rake-new-post</id>
+    <content type="html"><![CDATA[<h1>大家好</h1>
+
+<p>这是我的第一篇博客</p>
+
+<p>专门用来<code>高大上</code></p>
+
+<p>谢谢来访</p>
+
+<p>以下是测试代码</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class='objc'><span class='line'><span class="k">-</span> <span class="p">(</span><span class="kt">void</span><span class="p">)</span><span class="nf">test</span>
+</span><span class='line'><span class="p">{</span>
+</span><span class='line'>  <span class="n">NSLog</span><span class="p">(</span><span class="s">@&quot;Hello xuyang!&quot;</span><span class="p">);</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>再见！</p>
+]]></content>
+  </entry>
   
 </feed>
